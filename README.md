@@ -44,4 +44,4 @@ Table to wide, please select some columns:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/cf-table.
+Bug reports and pull requests are welcome on GitHub at https://github.com/cloudfoundry-community/cf-table.
