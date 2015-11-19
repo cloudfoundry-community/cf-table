@@ -1,5 +1,5 @@
 # CF Table
-Simple cli for show the results from `cf curl` in a table.
+Simple cli to show the results from `cf curl` in a table.
 
 ## Installation
 

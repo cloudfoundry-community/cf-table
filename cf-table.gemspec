@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Ruben Koster"]
   spec.email         = ["rkoster@starkandwayne.com"]
 
-  spec.summary       = %q{Simple cli for show the results from `cf curl` in a table.}
-  spec.description   = %q{Simple cli for show the results from `cf curl` in a table.}
+  spec.summary       = %q{Simple cli to show the results from `cf curl` in a table.}
+  spec.description   = %q{Simple cli to show the results from `cf curl` in a table.}
   spec.homepage      = "https://github.com/cloudfoundry-community/cf-table"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
