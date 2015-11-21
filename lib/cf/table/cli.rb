@@ -24,7 +24,9 @@ module CF::Table
 
     def self.rows
       entities.map do |entry|
-        columns.map { |column| entry[column] }
+        columns.map do |column|
+          entry[column]
+        end
       end
     end
 
