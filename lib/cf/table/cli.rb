@@ -6,7 +6,7 @@ module CF::Table
   class CLI
     def self.run
       if table.send(:columns_width) > term_cols
-        puts "Table to wide, please select some columns:"
+        puts "Table too wide, please select some columns:"
         puts keys_table
       else
         puts table
